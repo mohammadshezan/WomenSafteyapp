@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>285549737683-t2bo6q89q2vf5uds204d5t7ihqakrg0j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.285549737683-t2bo6q89q2vf5uds204d5t7ihqakrg0j</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>285549737683-d1evd9abk1f4uds1ckeer6ioh130ngot.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCz5JC3eEGc8Itwdgyy0rLMZG3xmxvibn8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>285549737683</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.safteysister</string>
+	<key>PROJECT_ID</key>
+	<string>saftey-sister-x8eloq</string>
+	<key>STORAGE_BUCKET</key>
+	<string>saftey-sister-x8eloq.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:285549737683:ios:1e2ecb02861b69d3adc626</string>
+</dict>
+</plist>
